@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+
+.nav-item{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 3vw;
+    
+
+}
