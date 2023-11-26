@@ -12,7 +12,7 @@ app = Flask(__name__)
 CORS(app, headers='Content-Type')
 app.secret_key = 'fghdfghdfgh'
 
-
+# test
 
 def users_data():
     rows = (query(f"SELECT * FROM users "))
